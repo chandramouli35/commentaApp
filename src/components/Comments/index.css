@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.main_frame_rowing {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.blueBack {
+  background-color: blue;
+  border-radius: 2px;
+  padding: 4px;
+}
